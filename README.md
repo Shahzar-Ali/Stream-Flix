@@ -43,7 +43,6 @@
         <li><strong>Swiper:</strong> A mobile-friendly carousel component for browsing content.</li>
         <li><strong>React Icons:</strong> For adding icons in the UI.</li>
         <li><strong>React Lazy Load Image:</strong> For performance optimization via lazy loading of images.</li>
-        <li><strong>YouTube API (or similar):</strong> For watching movie trailers directly in the app.</li>
         <li><strong>TMDb API:</strong> For retrieving movie and TV series data (using The Movie Database API).</li>
     </ul>
 
